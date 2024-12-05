@@ -19,7 +19,7 @@ Puedes descargar **DomainSleuth** directamente desde nuestro repositorio de GitH
 2. Clona el repositorio de GitHub con el siguiente comando:
 
    ```bash
-   git clone https://github.com/SergioMahia/DomainSleuth.git
+   git clone https://github.com/FiliusMahiae/DomainSleuth.git
    ```
 
 3. Accede a la carpeta del proyecto:
